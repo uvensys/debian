@@ -1,0 +1,7 @@
+Origin: uvensys.github.io/debian
+Label: uvensys.github.io/debian
+Codename: buster
+Architectures: amd64
+Components: main
+Description: uvensys repository
+SignWith: B2323F7E
