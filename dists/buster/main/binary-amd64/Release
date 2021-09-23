@@ -1,0 +1,5 @@
+Component: main
+Origin: uvensys.github.io/debian
+Label: uvensys.github.io/debian
+Architecture: amd64
+Description: uvensys repository

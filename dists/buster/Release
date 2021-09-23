@@ -1,0 +1,19 @@
+Origin: uvensys.github.io/debian
+Label: uvensys.github.io/debian
+Codename: buster
+Date: Thu, 23 Sep 2021 11:13:30 UTC
+Architectures: amd64
+Components: main
+Description: uvensys repository
+MD5Sum:
+ 152244ce7c2baad2c02cf2de7dd40947 2277 main/binary-amd64/Packages
+ a0b73af1c6d42328d6d284ae99760f71 1148 main/binary-amd64/Packages.gz
+ 3edbd121e855205f9f3518418b88b842 133 main/binary-amd64/Release
+SHA1:
+ cfa9b6326cd53ad3e96c6cedce82255b28dd80ee 2277 main/binary-amd64/Packages
+ cb73ebacd41ff5763bf417fb95b295c966f8da42 1148 main/binary-amd64/Packages.gz
+ e6f032c60a47657759065d7410e0b67abdb6bd7d 133 main/binary-amd64/Release
+SHA256:
+ 6212fbc3784c00c434cabbc2bc3bedd93d8ad606a5f10b824606f7f315c6111f 2277 main/binary-amd64/Packages
+ d9231dfc82838b0dc2d3dbffe8e81b38298ead5866c62a0df98cf858e928cf81 1148 main/binary-amd64/Packages.gz
+ 5315cc5157f4d41a499447db5671fb01fd54e03ce22c463ba0635553adb89fa1 133 main/binary-amd64/Release
